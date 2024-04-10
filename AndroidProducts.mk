@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_vayu.mk
+    $(LOCAL_DIR)/halcyon_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_vayu-eng \
-    aosp_vayu-userdebug \
-    aosp_vayu-user
+    halcyon_vayu-eng \
+    halcyon_vayu-userdebug \
+    halcyon_vayu-user
